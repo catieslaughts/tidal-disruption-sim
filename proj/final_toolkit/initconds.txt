@@ -1,0 +1,14 @@
+GOOD FIRST TAKE
+
+real color_k = 40;
+real color_xo = 0.0136;
+Vector3 vo = Vector3(-3.,.0,7.);
+Vector3 xo = Vector3::Unit(0) * 6;
+
+
+STABLE ORBIT
+
+real color_k = 40;
+real color_xo = 0.0136;
+Vector3 vo = Vector3(.0,.0,5.);
+Vector3 xo = Vector3::Unit(0) * 10;

@@ -1,0 +1,1 @@
+/usr/local/bin/g++-10  -Wall -std=c++11 -Wno-sign-compare -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/hello_world.dir/main.cpp.o -o hello_world 

@@ -1,0 +1,1 @@
+/usr/local/bin/g++-10  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tutorial_sim_driver.dir/main.cpp.o -o tutorial_sim_driver 
