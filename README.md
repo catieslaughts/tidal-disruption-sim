@@ -9,6 +9,7 @@ To change the driver being run, go to tidal-disruption-sim/proj/final_toolkit an
 1. BlackholeCenteredDriver (driver=1)
    * modeling the tidal disruption event of a star about a black hole, visualized in the rest frame of the black hole
    * values like black hole mass (default=300 solar masses) and star mass can be changed in the associated .h file
+   * note that the color of the particles making up the star is based on the relative gravitational force felt. Green=lesser net force, red=greater net force.
 2. SolarSystemDriver (driver=2)
    * simple model of the solar system
    * in the driver .h file, the values of sun_size_multiplyer and planet_size_multiplyer can be changed for viewing purposes. If both are set to 1, the sizes of the planets and sun are in scale with the distances
